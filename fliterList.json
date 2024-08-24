@@ -1,7 +1,7 @@
 {
 	"indeed": {
 		"viewjobPage": {
-			"urlPattern": "*://*.indeed.*/viewjob*asda",
+			"urlPattern": "*://*.indeed.*/viewjob*",
 			"selectors": {
 				"jobTitle": "[data-testid='jobsearch-JobInfoHeader-title']",
 				"companyName": "[data-testid='inlineHeader-companyName']",
