@@ -9,3 +9,6 @@ Any changes made here will be automatically be pulled by the extension.
 </p>
 
 ***
+
+
+[Badge Chrome]: https://img.shields.io/chrome-web-store/rating/cjpalhdlnbpafiamejdnhcphjbkeiagm?label=Chrome
