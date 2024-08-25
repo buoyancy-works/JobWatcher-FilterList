@@ -1,6 +1,6 @@
 ***
 <h1>
-Job Scrapper
+Job Watcher
 </h1>
 
 <p>
