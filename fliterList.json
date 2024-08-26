@@ -1,15 +1,4 @@
 {
-	"indeed": {
-		"scrollPage": {
-			"urlPattern": "*://*.indeed.*",
-			"selectors": {
-				"jobTitle": ".jobsearch-JobInfoHeader-title > span",
-				"companyName": "[data-testid='inlineHeader-companyName']",
-				"location": ["OR", "[data-testid='job-location']", "[data-testid='inlineHeader-companyLocation'] > div"],
-				"jobDescription": "#jobDescriptionText"
-			}
-		}
-	},
 	"jobbank": {
 		"jobDetailsPage": {
 			"urlPattern": "*://*.jobbank.gc.ca/jobsearch/jobposting*",
