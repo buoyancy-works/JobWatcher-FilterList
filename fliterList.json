@@ -11,13 +11,6 @@
 		},
 		"scrollPage": {
 			"urlPattern": "*://*.indeed.*",
-			"autoUpdate": [
-				{
-					"targetSelector": ".jobsearch-JobInfoHeader-title > span",
-					"parentSelector": "#jobfeed-content-0",
-					"use": "childMutations"
-				}
-			],
 			"selectors": {
 				"jobTitle": ".jobsearch-JobInfoHeader-title > span",
 				"companyName": "[data-testid='inlineHeader-companyName']",
