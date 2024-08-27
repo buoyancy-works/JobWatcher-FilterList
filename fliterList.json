@@ -24,8 +24,8 @@
 			"urlPattern": "*://*.jobbank.gc.ca/jobsearch/jobposting*",
 			"selectors": {
 				"jobTitle": "#wb-cont span[property='title']",
-				"companyName": "[property='joblocation']",
-				"location": "[property='hiringOrganization']",
+				"companyName": "[property='hiringOrganization']",
+				"location": "[property='joblocation']",
 				"jobDescription": ".job-posting-detail-requirements",
 				"postingReference": "ul.job-posting-brief li:last-child > span:last-child"
 			}
